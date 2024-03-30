@@ -21,7 +21,7 @@
 import productList from "./components/Lessons.vue";
 import orders from "./components/Orders.vue"
 
-/* eslint-disable */
+
 export default {
   name: 'App',
   components: {
